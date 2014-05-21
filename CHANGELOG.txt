@@ -1,0 +1,19 @@
+﻿Version 1.2 (25.04.2014)
+------------------------
+
+* FIX: Endlosschleife bei bereits verarbeiteten Nichtwörtern ("Stage")
+* FIX: Benutze ε Zeichen als leer
+
+Für Version 1.3 geplant:
+
+* Unterstützung für Strich-Nichtterminale (S' oder T' ...)
+
+Version 1.1 (22.04.2014)
+------------------------
+
+* Minimalste Codeoptimierungen und -verbesserungen
+
+Version 1.0 (17.04.2014)
+------------------------
+
+* Erste Version

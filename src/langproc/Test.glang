@@ -1,0 +1,19 @@
+﻿########################
+# settings
+
+# set maximum length to...
+n = 5
+
+# terminals
+L = {a,b}
+
+########################
+# actual rules
+
+S -> SABA
+S -> ABA
+AB -> BA
+B -> b
+S -> {empty}
+BA -> AB
+A -> a
